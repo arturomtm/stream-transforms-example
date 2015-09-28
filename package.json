@@ -1,0 +1,17 @@
+{
+  "name": "tse",
+  "version": "1.0.0",
+  "description": "Transform Stream Examples",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "arturo@redradix.com",
+  "license": "MIT",
+  "dependencies": {
+    "jasmine": "^2.3.2"
+  }
+}
